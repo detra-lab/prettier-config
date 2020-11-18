@@ -1,0 +1,37 @@
+{
+  "name": "@detra-lab/prettier-config",
+  "version": "0.1.0",
+  "description": "An opinionated Prettier config.",
+  "license": "MIT",
+  "author": {
+    "name": "Detra",
+    "email": "detra.lab@pm.me",
+    "homepage": "https://github.com/detra-lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detra-lab/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/detra-lab/prettier-config/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": ".prettierrc.json",
+  "files": [
+    ".prettierrc.json"
+  ],
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "keywords": [
+    "code-styles",
+    "formatter",
+    "prettier",
+    "prettier-config"
+  ]
+}
