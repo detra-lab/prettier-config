@@ -1,5 +1,8 @@
 # Prettier Config
 
+[![NPM Version][npm_version_badge]][npm_badge_url]
+[![NPM Downloads][npm_downloads_badge]][npm_badge_url]
+
 [Prettier](https://prettier.io/) is a highly effective tool that specializes in handling code formatting styles. :sparkles:
 We have bundled our configuration to make it easily shareable across multiple projects.
 
@@ -13,14 +16,7 @@ We have bundled our configuration to make it easily shareable across multiple pr
 Install Prettier and the related configuration as a `devDependencies`:
 
 ```sh
-# NPM
-npm add --save-dev prettier @detra-lab/prettier-config
-
-# PNPM
-pnpm add --save-dev prettier @detra-lab/prettier-config
-
-# Yarn
-yarn add --dev prettier @detra-lab/prettier-config
+npm add --save-dev @detra-lab/prettier-config prettier
 ```
 
 Reference it in your `package.json`:
@@ -61,3 +57,12 @@ Check the [`.prettierrc.json`](./.prettierrc.json) file if you want to inspect t
 ## License
 
 [MIT License](./LICENSE)
+
+<!-- Badges -->
+
+[npm_version_badge]: https://img.shields.io/npm/v/@detra-lab/prettier-config?style=flat-square&colorA=6930C3&colorB=5390D9
+[npm_downloads_badge]: https://img.shields.io/npm/dm/@detra-lab/prettier-config?style=flat-square&colorA=6930C3&colorB=5390D9
+
+<!-- Links -->
+
+[npm_badge_url]: https://www.npmjs.com/package/@detra-lab/prettier-config
