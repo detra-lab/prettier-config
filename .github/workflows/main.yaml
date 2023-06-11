@@ -12,6 +12,8 @@ concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   release:
+    if: ${{ contains(github.event.pull_request.body, '[[skip-ci]]') == false }}
+
     runs-on: ubuntu-latest
 
     steps:
