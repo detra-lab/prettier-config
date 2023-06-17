@@ -33,11 +33,6 @@
   "peerDependencies": {
     "prettier": "^2.8.0"
   },
-  "peerDependenciesMeta": {
-    "prettier": {
-      "optional": false
-    }
-  },
   "keywords": [
     "code-styles",
     "formatter",
