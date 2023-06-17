@@ -16,7 +16,7 @@ We have bundled our configuration to make it easily shareable across multiple pr
 Install Prettier and the related configuration as a `devDependencies`:
 
 ```sh
-npm add --save-dev @detra-lab/prettier-config prettier
+pnpm add -D @detra-lab/prettier-config prettier
 ```
 
 Reference it in your `package.json`:
@@ -47,7 +47,7 @@ module.exports = {
 Use the `--write` flag to format a file in place.
 
 ```sh
-npx prettier --write .
+pnpx prettier . --write --ignore-unknown
 ```
 
 ## Config

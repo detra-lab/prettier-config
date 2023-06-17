@@ -22,8 +22,13 @@
   "files": [
     ".prettierrc.json"
   ],
+  "scripts": {
+    "release": "changeset publish"
+  },
   "devDependencies": {
-    "prettier": "^2.8.0"
+    "@changesets/changelog-git": "^0.1.14",
+    "@changesets/cli": "^2.26.1",
+    "prettier": "^2.8.8"
   },
   "peerDependencies": {
     "prettier": "^2.8.0"
