@@ -56,7 +56,7 @@ Check the [`.prettierrc.json`](./.prettierrc.json) file if you want to inspect t
 
 ## License
 
-[MIT License](./LICENSE)
+[Apache License 2.0](./LICENSE)
 
 <!-- Badges -->
 
