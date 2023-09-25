@@ -60,8 +60,8 @@ Check the [`.prettierrc.json`](./.prettierrc.json) file if you want to inspect t
 
 <!-- Badges -->
 
-[npm_version_badge]: https://img.shields.io/npm/v/@detra-lab/prettier-config?style=flat-square&colorA=6930C3&colorB=5390D9
-[npm_downloads_badge]: https://img.shields.io/npm/dm/@detra-lab/prettier-config?style=flat-square&colorA=6930C3&colorB=5390D9
+[npm_version_badge]: https://img.shields.io/npm/v/@detra-lab/prettier-config?style=flat-square&colorA=383AB5&colorB=5390D9
+[npm_downloads_badge]: https://img.shields.io/npm/dm/@detra-lab/prettier-config?style=flat-square&colorA=383AB5&colorB=5390D9
 
 <!-- Links -->
 
