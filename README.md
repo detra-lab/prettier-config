@@ -52,17 +52,17 @@ pnpx prettier . --write --ignore-unknown
 
 ## Config
 
-Check the [`.prettierrc.json`](./.prettierrc.json) file if you want to inspect the configuration.
+Check the [`.prettierrc.json`](https://github.com/detra-lab/prettier-config/blob/stable/.prettierrc.json) file if you want to inspect the configuration.
 
 ## License
 
-[Apache License 2.0](./LICENSE)
+[Apache License 2.0](https://github.com/detra-lab/prettier-config/blob/stable/LICENSE)
+
+<div align="center"><img src="https://raw.github.com/detra-lab/.github/stable/profile/logo.svg" width="100" height="100" alt="Detra" /><p><small>© 2023 Detra</small></p></div>
 
 <!-- Badges -->
-
 [npm_version_badge]: https://img.shields.io/npm/v/@detra-lab/prettier-config?style=flat-square&colorA=424394&colorB=80ffdb
 [npm_downloads_badge]: https://img.shields.io/npm/dm/@detra-lab/prettier-config?style=flat-square&colorA=424394&colorB=80ffdb
 
 <!-- Links -->
-
 [npm_badge_url]: https://www.npmjs.com/package/@detra-lab/prettier-config
