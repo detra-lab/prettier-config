@@ -9,6 +9,7 @@ We have bundled our configuration to make it easily shareable across multiple pr
 - [Prettier Config](#prettier-config)
   - [Getting started](#getting-started)
   - [Config](#config)
+  - [Code of Conduct](#code-of-conduct)
   - [License](#license)
 
 ## Getting started
@@ -53,6 +54,10 @@ pnpx prettier . --write --ignore-unknown
 ## Config
 
 Check the [`.prettierrc.json`](https://github.com/detra-lab/prettier-config/blob/stable/.prettierrc.json) file if you want to inspect the configuration.
+
+## Code of Conduct
+
+Help us keep the project open and inclusive. Please read and follow our [Code of Conduct](https://github.com/detra-lab/prettier-config/blob/stable/CODE_OF_CONDUCT.md).
 
 ## License
 
