@@ -10,6 +10,7 @@
     "./.prettierrc.json"
   ],
   "scripts": {
+    "changeset": "changeset",
     "release": "changeset publish"
   },
   "devDependencies": {
