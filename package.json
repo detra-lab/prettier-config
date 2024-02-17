@@ -14,10 +14,10 @@
     "release": "changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.26.2"
+    "@changesets/cli": "^2.27.1"
   },
   "peerDependencies": {
-    "prettier": "^2.8 || ^3.0"
+    "prettier": "^3.0"
   },
   "publishConfig": {
     "access": "public"
