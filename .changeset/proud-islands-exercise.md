@@ -2,4 +2,4 @@
 "@detra-lab/prettier-config": minor
 ---
 
-Updated Prettier's minimum requirements from `v2.8` to `v3.0`.
+Support for Prettier `v2.8` has been dropped.
