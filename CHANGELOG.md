@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.0
+
+### Minor Changes
+
+- a401536: Support for Prettier `v2.8` has been dropped.
+
 ## 0.2.1
 
 ### Patch Changes
